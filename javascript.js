@@ -6,7 +6,7 @@
   const clearCompletedBtn = document.getElementById('clearCompleted');
   const filterBtns = document.querySelectorAll('.filter-btn');
 
-  const STORAGE_KEY = 'taskmanager-tasks';
+  const STORAGE_KEY = 'task-tasks';
   let currentFilter = 'all';
 
   // ---------- Storage helpers ----------
