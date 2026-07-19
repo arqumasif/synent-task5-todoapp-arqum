@@ -175,17 +175,7 @@
 
   .delete-btn:hover { transform: scale(1.08); }
 
-  .empty-state {
-    text-align: center;
-    padding: 50px 20px;
-    color: var(--muted);
-  }
-
-  .empty-state .big-icon {
-    font-size: 36px;
-    display: block;
-    margin-bottom: 10px;
-  }
+n jnb
 
   footer {
     text-align: center;
